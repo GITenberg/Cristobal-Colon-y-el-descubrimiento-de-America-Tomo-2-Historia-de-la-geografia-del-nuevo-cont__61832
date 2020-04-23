@@ -1,0 +1,38 @@
+_repo: Cristobal-Colon-y-el-descubrimiento-de-America-Tomo-2-Historia-de-la-geografia-del-nuevo-cont__61832
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Navarro y Calvo, Luis
+    alias: Calvo, Luis Navarro y
+    gutenberg_agent_id: '51636'
+    url: http://www.gutenberg.org/2009/agents/51636
+creator:
+  author:
+    agent_name: Humboldt, Alexander von
+    aliases:
+    - Von Humboldt, Alexander
+    - Humboldt, Friedrich Wilhelm Heinrich Alexander von
+    birthdate: 1769
+    deathdate: 1859
+    gutenberg_agent_id: '1995'
+    url: http://www.gutenberg.org/2009/agents/1995
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_von_Humboldt
+description: ''
+gutenberg_issued: '2020-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61832'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Navigation -- History'
+- !lcsh 'Columbus, Christopher'
+- !lcsh 'America -- Discovery and exploration -- Spanish'
+- !lcc 'E011'
+- GITenberg
+title: "Cristóbal Colón y el descubrimiento de América, Tomo 2\r\nHistoria de la geografía\
+  \ del nuevo continente y de los progresos de la astronomía náutica en los siglos\
+  \ XV y XVI"
+url: http://www.gutenberg.org/ebooks/61832
